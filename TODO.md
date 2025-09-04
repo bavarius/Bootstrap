@@ -6,11 +6,8 @@ Project Description
 
 ### Todo
 
-- [ ] Create Stairway Run Project  
+- [ ] Create Stairway Run Project
 
 ### In Progress
 
-
 ### Done ✓
-
-
