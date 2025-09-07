@@ -7,7 +7,7 @@ This is a simple boilerplate for creating and customizing Bootstrap websites. Ju
 Install dependencies:
 
 ```bash
-npm install <package>
+npm install
 ```
 
 This will install Bootstrap, Sass and Font Awesome.
